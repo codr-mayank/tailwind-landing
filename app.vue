@@ -25,33 +25,7 @@
         >
           Get Started
         </a>
-
-        <!-- Hamburger Icon -->
-        <!-- <button id="menu-btn" class="block hamburger md:hidden focus:outline-none">
-          <span class="hamburger-top"></span>
-          <span class="hamburger-middle"></span>
-          <span class="hamburger-bottom"></span>
-        </button> -->
       </div>
-
-      <!-- Mobile Menu -->
-      <!-- <div class="md:hidden">
-        <div
-          id="menu"
-          class="absolute hidden sm:flex flex-col items-center self-end py-8
-            mt-10 space-y-6 font-bold bg-white sm:w-auto sm:self-center
-            left-6 right-6 drop-shadow-md"
-        >
-          <a href="#">Pricing</a>
-          <a href="#">Product</a>
-          <a href="#">About Us</a>
-          <a href="#">Careers</a>
-          <a href="#">Community</a>
-        </div>
-      </div> -->
-
-      <!-- 1:11:00 -->
-
     </nav>
 
     <!-- Hero Section -->
